@@ -1,3 +1,2 @@
 # ANLY560DPATEL
-
-# demo only
+demo only
